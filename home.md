@@ -1,5 +1,4 @@
-washingtonweekly.github.io
-==========================
+
 <head>
 <body>
 <h1>Washington Weekly</h1>
